@@ -1,0 +1,2 @@
+type power_prop, property_type;
+type moto_boot_prop, property_type;

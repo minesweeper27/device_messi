@@ -17,4 +17,4 @@ Display | 1080 x 2160 pixels, 6.01" Super AMOLED
 Rear Camera  | Dual 12 MP
 Front Camera | 8 MP
 
-![Motorola Z3](https://cdn2.gsmarena.com/vv/bigpic/motorola-moto-z3-.jpg "Motorola Z3")
+![Motorola Z3](https://m.gsmarena.com/motorola_moto_z3-pictures-9283.php "Motorola Z3")

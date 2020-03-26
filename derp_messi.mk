@@ -22,7 +22,7 @@ TARGET_BOOTANIMATION_HALF_RES := true
 
 
 # Device identifiers
-BUILD_FINGERPRINT := motorola/nash/nash:8.0.0/OPXS27.109-34-10/5:user/release-keys
+BUILD_FINGERPRINT := motorola/messi/messi:9/PCX29.10-33/60ac6:user/release-keys
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := messi
 PRODUCT_MANUFACTURER := Motorola

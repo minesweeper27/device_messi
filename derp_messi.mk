@@ -20,6 +20,8 @@ $(call inherit-product, device/motorola/messi/device.mk)
 # Boot Animtion
 TARGET_BOOTANIMATION_HALF_RES := true
 
+TARGET_GAPPS_ARCH := arm64
+
 
 # Device identifiers
 BUILD_FINGERPRINT := motorola/messi/messi:9/PCX29.10-33/60ac6:user/release-keys

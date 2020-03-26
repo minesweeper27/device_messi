@@ -257,13 +257,13 @@ PRODUCT_PACKAGES += \
     LineageActions
 
 # Lineage hardware
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.messi
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.touch@1.0-service.messi
 
 # LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-sdm \
-    vendor.lineage.livedisplay@2.0-service-sysfs
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.livedisplay@2.0-service-sdm \
+#    vendor.lineage.livedisplay@2.0-service-sysfs
 
 # Media
 PRODUCT_COPY_FILES += \
@@ -479,8 +479,8 @@ PRODUCT_PACKAGES += \
     libtinyxml2
 
 # Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 # TWRP
 ifeq ($(WITH_TWRP),true)
